@@ -82,6 +82,7 @@
     <Compile Include="FantasySeason\IPLSeason.cs" />
     <Compile Include="IndividualScores\IndividualScore.cs" />
     <Compile Include="IPLMatches\IPLMatch.cs" />
+    <Compile Include="IPLPoints\GamePoints.cs" />
     <Compile Include="IPLTeam\IPLTeam.cs" />
     <Compile Include="PlayerRoles\PlayerRole.cs" />
     <Compile Include="Players\Player.cs" />
