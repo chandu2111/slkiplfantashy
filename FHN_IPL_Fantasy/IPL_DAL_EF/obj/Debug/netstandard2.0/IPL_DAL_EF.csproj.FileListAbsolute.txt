@@ -1,0 +1,9 @@
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\bin\Debug\netstandard2.0\IPL_DAL_EF.deps.json
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\bin\Debug\netstandard2.0\IPL_DAL_EF.dll
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.csprojResolveAssemblyReference.cache
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.csproj.CoreCompileInputs.cache
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.AssemblyInfoInputs.cache
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.AssemblyInfo.cs
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\bin\Debug\netstandard2.0\IPL_DAL_EF.pdb
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.dll
+C:\Users\chand_000\Documents\Visual Studio 2017\Projects\FHN_IPL_Fantasy\IPL_DAL_EF\obj\Debug\netstandard2.0\IPL_DAL_EF.pdb
