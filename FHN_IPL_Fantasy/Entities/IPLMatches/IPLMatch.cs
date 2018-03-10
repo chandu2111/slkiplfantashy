@@ -21,5 +21,7 @@ namespace Entities.IPLMatches
         
         public IPLSeason IPLSeason { get; set; }
 
+        public IPLGameStages.IPLGameStage IPLGameStage { get; set; }
+
     }
 }

@@ -19,5 +19,6 @@ namespace Entities.FantasySeason
 
         public int RunnerID { get; set; }
 
+
     }
 }

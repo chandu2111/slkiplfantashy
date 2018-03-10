@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entities.IPLPoints
+namespace Entities.IPLGameStages
 {
-    public class GamePoints
+    public class IPLGameStage
     {
     }
 }

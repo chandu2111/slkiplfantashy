@@ -81,8 +81,10 @@
   <ItemGroup>
     <Compile Include="FantasySeason\IPLSeason.cs" />
     <Compile Include="IndividualScores\IndividualScore.cs" />
+    <Compile Include="IPLGameStages\IPLGameStage.cs" />
     <Compile Include="IPLMatches\IPLMatch.cs" />
     <Compile Include="IPLPoints\GamePoints.cs" />
+    <Compile Include="IPLPredictions\Prediction.cs" />
     <Compile Include="IPLTeam\IPLTeam.cs" />
     <Compile Include="PlayerRoles\PlayerRole.cs" />
     <Compile Include="Players\Player.cs" />
@@ -92,6 +94,8 @@
     <Compile Include="UserRole\UsrRole.cs" />
     <Compile Include="UsersTeam\UserTeamPlayers.cs" />
     <Compile Include="Users\User.cs" />
+    <Compile Include="UserWeeklyChanges\UserPlayerChangeWeek.cs" />
+    <Compile Include="UserWeeklyChanges\WeekGameRule.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="IPLMatches.ViewModels\" />
