@@ -8,5 +8,7 @@ namespace Entities.IPLGameStages
 {
     public class IPLGameStage
     {
+        public int ID { get; set; }
+        public string StageName { get; set; }
     }
 }

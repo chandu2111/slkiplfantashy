@@ -58,6 +58,8 @@ namespace IPLData.Context
 
         public DbSet<UsrRole> UserRole { get; set; }
 
+
+
     }
 
     //public class MyEntity

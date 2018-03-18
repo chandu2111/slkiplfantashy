@@ -22,6 +22,5 @@ namespace Entities.IPLPredictions
 
         public IPLMatches.IPLMatch IPLMatch { get; set; }
 
-        public IPLGameStage IPLGameStage { get; set; }
     }
 }

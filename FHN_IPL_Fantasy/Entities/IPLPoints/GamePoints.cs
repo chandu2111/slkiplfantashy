@@ -8,5 +8,6 @@ namespace Entities.IPLPoints
 {
     public class GamePoints
     {
+
     }
 }
